@@ -1,4 +1,4 @@
-# COVID19_Free_Resources
+# COVID19 Free Resources
 Curation of resources/ courses/ services gone free due to the COVID-19 pandemic. The more diverse and multi-faceted this list, the better! So please add to this list or email suggestions at yusra.haider@gmail.com
 
 **General**
