@@ -5,6 +5,7 @@ Curation of resources/ courses/ services gone free / on discount due to the COVI
 
  - [Coursera](https://www.coursera.org/) is launching free [resources](https://blog.coursera.org/coursera-together-free-online-learning-during-covid-19/) to help the community during this lockdown
 - [OpenClassrooms](https://openclassrooms.com/en/) is giving [free access to its catalog of more than 600 courses!](https://openclassrooms.com/en/p/academic-continuity) 
+- [JSTOR](https://www.jstor.org/) is providing [free access to its research journals and archives to all participating institutions and has expanded its read-online access limit to 100 articles for everyone](https://about.jstor.org/covid19/).
 
 **Computer Science / IT / Technology**
 
@@ -21,6 +22,8 @@ Curation of resources/ courses/ services gone free / on discount due to the COVI
 - [Google Cloud](https://cloud.google.com/) is giving free access to [Google Cloud Training](https://inthecloud.withgoogle.com/training-discount/register.html?fbclid=IwAR0sjhc4vRVB2aJxwPgSiooSp5m-ejpKvUA0WwBQJ15ALWgaOj8EH6-esPg)
 - [365DataScience](https://365datascience.com/) has made [all its courses free till April 15, 2020](https://365datascience.com/pricing//)
 - [Tableau](https://elearning.tableau.com/) is offering 90 days of free e-learning with access code `2020elearning` of their software `Tableau`. Signup and start learning [here](https://www.tableau.com/learn/training/elearning?fbclid=IwAR2b0OI4rydhbbMXazm4gkirIVDg2T2m2NXofinVPY9PXTsppLH8DjQ2RKU)
+- [Oracle](https://www.oracle.com/index.html) is offering [free certifications and online learning material](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html?source=:so:li:or:awr:ocorp:&SC=:so:li:or:awr:ocorp:&pcode=) for its Oracle Cloud Infrastructure and Oracle Autonomous Database courses.
+- [Microsoft](https://www.microsoft.com) is offering  free access to its [Minecraft: Education Edition](https://education.minecraft.net/blog/microsoft-extends-access-to-minecraft-education-edition-and-resources-to-support-remote-learning/) and related resources to support remote learning for all of its Office 365 members **(.edu email address will be required)**
 
 
 **Photography**
@@ -37,13 +40,20 @@ Curation of resources/ courses/ services gone free / on discount due to the COVI
 **Games**
 
  - [Humble Bundle](https://www.humblebundle.com/) has [introducted a special bundle with around $1,071 worth of games and books for $30!](https://www.humblebundle.com/conquer-covid19-bundle?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_1) All proceeds go to organizations supporting the battle against COVID-19 
- 
+
  **Tools**
  - [OpenClassrooms](https://openclassrooms.com/en/) is giving [free access to its Spark distance learning product](https://openclassrooms.com/en/p/academic-continuity) 
- 
+
 **Books**
+
 - [Scribd](https://www.scribd.com/?lohp=2) is giving [30 days of free access to its massive library of books!](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community)
 
 **Cooking**
 - [Milk Street](https://www.177milkstreet.com/) has made [their entire line of cooking classes free](https://www.177milkstreet.com/school/classes/online-classes/?fbclid=IwAR3gdqkC_fQf3N8kN3MuD8dS9f_UjbQ7JPmWutgLCdjxC-dHlJA8P602mbY) till April 30, 2020
+
+**Sports**
+
+- [NBA](www.nba.com) is giving a [free preview](https://www.nba.com/nba-fan-letter-league-pass-free-preview) of its League Pass which includes the replays of all the games of the 2019-20 season and much more. 
+
+
 
