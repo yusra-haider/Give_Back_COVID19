@@ -20,6 +20,8 @@ Curation of resources/ courses/ services gone free / on discount due to the COVI
 - [Packt](https://courses.packtpub.com/) is giving [free access to its Web Development, Data Science and Programming Languages workshops](https://courses.packtpub.com/pages/free?fbclid=IwAR3S59IEXY2Csvlgt7wNv9tO5vMTOaM-C-FcF2U0GcJC_os9J5IQg49qTw0) with the code `PACKTFREE`
 - [Google Cloud](https://cloud.google.com/) is giving free access to [Google Cloud Training](https://inthecloud.withgoogle.com/training-discount/register.html?fbclid=IwAR0sjhc4vRVB2aJxwPgSiooSp5m-ejpKvUA0WwBQJ15ALWgaOj8EH6-esPg)
 - [365DataScience](https://365datascience.com/) has made [all its courses free till April 15, 2020](https://365datascience.com/pricing//)
+- [Tableau](https://www.tableau.com/learn/training/elearning?fbclid=IwAR2b0OI4rydhbbMXazm4gkirIVDg2T2m2NXofinVPY9PXTsppLH8DjQ2RKU) is offering 90 days of free e-learning. Signup and start learning[here].(https://elearning.tableau.com/)
+
 
 **Photography**
 
