@@ -20,7 +20,7 @@ Curation of resources/ courses/ services gone free / on discount due to the COVI
 - [Packt](https://courses.packtpub.com/) is giving [free access to its Web Development, Data Science and Programming Languages workshops](https://courses.packtpub.com/pages/free?fbclid=IwAR3S59IEXY2Csvlgt7wNv9tO5vMTOaM-C-FcF2U0GcJC_os9J5IQg49qTw0) with the code `PACKTFREE`
 - [Google Cloud](https://cloud.google.com/) is giving free access to [Google Cloud Training](https://inthecloud.withgoogle.com/training-discount/register.html?fbclid=IwAR0sjhc4vRVB2aJxwPgSiooSp5m-ejpKvUA0WwBQJ15ALWgaOj8EH6-esPg)
 - [365DataScience](https://365datascience.com/) has made [all its courses free till April 15, 2020](https://365datascience.com/pricing//)
-- [Tableau](https://www.tableau.com/learn/training/elearning?fbclid=IwAR2b0OI4rydhbbMXazm4gkirIVDg2T2m2NXofinVPY9PXTsppLH8DjQ2RKU) is offering 90 days of free e-learning. Signup and start learning[here].(https://elearning.tableau.com/)
+- [Tableau](https://elearning.tableau.com/) is offering 90 days of free e-learning with access code `2020elearning` of their software `Tableau`. Signup and start learning [here](https://www.tableau.com/learn/training/elearning?fbclid=IwAR2b0OI4rydhbbMXazm4gkirIVDg2T2m2NXofinVPY9PXTsppLH8DjQ2RKU)
 
 
 **Photography**
@@ -36,13 +36,13 @@ Curation of resources/ courses/ services gone free / on discount due to the COVI
 
 **Games**
 
- - [Humble Bundle](https://www.humblebundle.com/) has introducted a special bundle with around $1,071 worth of games and books for $30! All proceeds go to organizations supporting the battle against COVID-19 
+ - [Humble Bundle](https://www.humblebundle.com/) has [introducted a special bundle with around $1,071 worth of games and books for $30!](https://www.humblebundle.com/conquer-covid19-bundle?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_1) All proceeds go to organizations supporting the battle against COVID-19 
  
  **Tools**
  - [OpenClassrooms](https://openclassrooms.com/en/) is giving [free access to its Spark distance learning product](https://openclassrooms.com/en/p/academic-continuity) 
  
 **Books**
-- [Scribd](https://www.scribd.com/?lohp=2) is giving [30 days of free access to its massive libaray of books!](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community)
+- [Scribd](https://www.scribd.com/?lohp=2) is giving [30 days of free access to its massive library of books!](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community)
 
 **Cooking**
 - [Milk Street](https://www.177milkstreet.com/) has made [their entire line of cooking classes free](https://www.177milkstreet.com/school/classes/online-classes/?fbclid=IwAR3gdqkC_fQf3N8kN3MuD8dS9f_UjbQ7JPmWutgLCdjxC-dHlJA8P602mbY) till April 30, 2020
