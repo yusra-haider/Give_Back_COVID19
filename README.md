@@ -1,5 +1,5 @@
 # COVID19 -- Giving Back
-Curation of resources/ courses/ services gone free / on discount due to the COVID-19 pandemic. The more diverse and multi-faceted this list, the better! So please add to this list or email suggestions at yusra.haider@gmail.com
+Curation of resources/ courses/ services gone free / on discount due to the COVID-19 pandemic. The more diverse and multi-faceted this list, the better! So please add to this list by raising a PR or email suggestions at yusra.haider@gmail.com
 
 **General**
 
@@ -31,6 +31,7 @@ Curation of resources/ courses/ services gone free / on discount due to the COVI
  - [Nikon](https://www.nikonevents.com/us/live/nikon-school-online/) is offering all its photography classes for free till April 30th
 
 **Music**
+
 - [HomeSchoolPiano](https://homeschoolpiano.com/) is giving [free access](https://homeschoolpiano.com/give-back/) to its CorePiano and HomeSchoolPiano Level 1 courses till September 1st, 2020
 
 **Fitness**
@@ -42,6 +43,7 @@ Curation of resources/ courses/ services gone free / on discount due to the COVI
  - [Humble Bundle](https://www.humblebundle.com/) has [introducted a special bundle with around $1,071 worth of games and books for $30!](https://www.humblebundle.com/conquer-covid19-bundle?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_1) All proceeds go to organizations supporting the battle against COVID-19 
 
  **Tools**
+ 
  - [OpenClassrooms](https://openclassrooms.com/en/) is giving [free access to its Spark distance learning product](https://openclassrooms.com/en/p/academic-continuity) 
 
 **Books**
@@ -49,11 +51,15 @@ Curation of resources/ courses/ services gone free / on discount due to the COVI
 - [Scribd](https://www.scribd.com/?lohp=2) is giving [30 days of free access to its massive library of books!](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community)
 
 **Cooking**
+
 - [Milk Street](https://www.177milkstreet.com/) has made [their entire line of cooking classes free](https://www.177milkstreet.com/school/classes/online-classes/?fbclid=IwAR3gdqkC_fQf3N8kN3MuD8dS9f_UjbQ7JPmWutgLCdjxC-dHlJA8P602mbY) till April 30, 2020
 
 **Sports**
 
 - [NBA](www.nba.com) is giving a [free preview](https://www.nba.com/nba-fan-letter-league-pass-free-preview) of its League Pass which includes the replays of all the games of the 2019-20 season and much more. 
 
+**Management**
+
+- [PMI](https://www.pmi.org/) is giving away [free online resources for learning project management](https://www.pmi.org/about/coronavirus-single-source-message/virtual-resource-hub)
 
 
