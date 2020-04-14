@@ -48,7 +48,7 @@ Curation of resources/ courses/ services gone free / on discount due to the COVI
 
 **Books / Audiobooks / Podcasts / Games**
 
- ~~- [Humble Bundle](https://www.humblebundle.com/) has [introducted a special bundle with around $1,071 worth of games and books for $30!](https://www.humblebundle.com/conquer-covid19-bundle?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_1) All proceeds go to organizations supporting the battle against COVID-19
+ ~~- [Humble Bundle](https://www.humblebundle.com/) has [introducted a special bundle with around $1,071 worth of games and books for $30!](https://www.humblebundle.com/conquer-covid19-bundle?hmb_source=navbar&hmb_medium=product_tile&hmb_campaign=tile_index_1) All proceeds go to organizations supporting the battle against COVID-19~~
  - [Scribd](https://www.scribd.com/?lohp=2) is giving [30 days of free access to its massive library of books!](https://blog.scribd.com/home/2020/3/17/a-letter-from-the-scribd-ceo-to-our-community)
 
 
